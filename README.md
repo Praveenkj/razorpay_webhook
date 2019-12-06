@@ -20,7 +20,5 @@ and run
 ruby selenium_razorpay_webhook.rb
 ```
 
-Please make sure to update tests as appropriate.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
