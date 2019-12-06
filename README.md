@@ -4,7 +4,7 @@ Use it for testing razorpay payment link while developing Webhook as entering ac
 
 ## Installation
 
-Make sure you have Selenium Webdrive Installed before proceeding.
+Make sure you have Selenium Webdriver Installed before proceeding.
 [https://github.com/SeleniumHQ/selenium/tree/master/rb](https://github.com/SeleniumHQ/selenium/tree/master/rb)
 
 
