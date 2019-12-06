@@ -10,7 +10,7 @@ Make sure you have Selenium Webdriver Installed before proceeding.
 
 ## Replace link
 
-Replace the following link to your test Razorpay payment page
+Replace the following link in the above code to your test Razorpay payment page
 ```bash
 driver.get 'https://link_to_razorpay_webpage'
 ```
