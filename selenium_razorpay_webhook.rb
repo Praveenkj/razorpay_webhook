@@ -3,7 +3,7 @@
 require 'selenium-webdriver'
 driver = Selenium::WebDriver.for :chrome
 
-driver.get 'https://rzp.io/l/kawOIqx'
+driver.get 'https://link_to_razorpay_webpage' # replace it with razorpay test payment page link here
 driver.find_element(:name,"email").send_keys 'tester@gmail.com'
 driver.find_element(:name,"phone").send_keys '7584363853'
 driver.find_element(:class,"btn").click
